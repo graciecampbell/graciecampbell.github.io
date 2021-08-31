@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1><b>Gracie Campbell</b></h1>
+
+    <p><i>"Develop a passion for learning and you will never cease to grow"</i></p>
+   
+       <h2> Here is why Friday is my favorite day of the week:</h2>
+       <ul>
+           <li>I have no classes, so I can focus on what I need to do</li>
+           <li>I have plenty of time to hangout with my family and friends</li>
+           <li>Fridays always feel so sunny (hypothetically speaking)</li>
+       </ul>
+       <img src="dazai.jpeg" width="220" height="150">
+
+</body>
+</html>
